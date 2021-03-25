@@ -1,5 +1,5 @@
 # Hi there 👋
-## Welcome to my page! My name is Michael and I am a Software Development Student with a passion for IoT, Linux, and Python!
+### Welcome to my page! My name is Michael and I am a Software Development Student with a passion for IoT, Linux, and Python!
 You can catch me on discord pretty regularly: M-Desormeaux#7777
 Just add a message about how you found me and I would love to chat!
 - 🔭 I’m currently working on building a portfolio and my skills!
