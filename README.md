@@ -7,4 +7,4 @@ Just add a message about how you found me and I would love to chat!
 - 👯 Looking to collaborate on any python based project! I am always looking for things to work on, but am still grasping my abilities.
 - 🤔 Looking for help with my discord server and building a network.
 - 💬 Ask me about anything, I love to talk.
-- 📫 How to reach me: Add me on discord! OR join my discord: discord.gg/9qM7GmAwaG
+- 📫 How to reach me: Add me on discord! OR join my discord: https://discord.gg/69MyVZE3n7
