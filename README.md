@@ -1,4 +1,5 @@
 # 👋 Hi there
+Just a simple Software Development student with a love for learning. I don't have much to look at for now, but keep checking back!
 
 ## 🔧 Projects:
 - 📖 Learn React:
