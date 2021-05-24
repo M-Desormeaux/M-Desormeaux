@@ -7,9 +7,7 @@
 ## 📫 Contact Me:
 
 🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
-🐤 [Twitter](https://twitter.com/m__desormeaux)<br>
-💬 Discord Tag: m__desormeaux#7777<br>
-
+🐤 [Twitter](https://twitter.com/m__desormeaux)
 
 Just add a message about how you found me and I would love to chat!
 - 🔭 Working on building a portfolio and my skills!
