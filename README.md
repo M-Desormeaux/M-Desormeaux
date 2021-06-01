@@ -1,13 +1,10 @@
 # 👋 Hi there
+
+## 🚧 This system is currently a work in progress
+
 Just a simple Software Development student with a love for learning. I don't have much to look at for now, but keep checking back!
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Desormeaux)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## 🔧 Projects:
-- 📖 Learn React:
-  - A project designed around learning react and slowly implimenting all the things I learn.
-- 📄 Personal Site:
-  - Just a personal site that will update with milestones alongside my react knowledge.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=M-Desormeaux&theme=react&count_private=true&show_icons=true&include_all_commits=true)
 
 ## ✔️ Skills:
 - 🐍 Python             (Novice/Intermediate)
@@ -16,5 +13,6 @@ Just a simple Software Development student with a love for learning. I don't hav
 - 💾 Microcontrollers   (Novice)
 
 ## 📫 Contact Me:
- 🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
+🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
 🐤 [Twitter](https://twitter.com/m__desormeaux)
+
