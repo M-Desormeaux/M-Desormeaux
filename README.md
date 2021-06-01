@@ -1,8 +1,6 @@
-# 👋 Hi there
+# 🚧 This system is currently a work in progress
 
-## 🚧 This system is currently a work in progress
-
-Just a simple Software Development student with a love for learning. I don't have much to look at for now, but keep checking back!
+👋 Hi there, just a simple Software Development student with a love for learning. I don't have much to look at for now, but keep checking back!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=M-Desormeaux&theme=react&count_private=true&show_icons=true&include_all_commits=true)
 
