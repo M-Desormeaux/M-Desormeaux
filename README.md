@@ -1,5 +1,7 @@
 # 👋 Hi there
 Just a simple Software Development student with a love for learning. I don't have much to look at for now, but keep checking back!
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Desormeaux)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔧 Projects:
 - 📖 Learn React:
@@ -14,5 +16,5 @@ Just a simple Software Development student with a love for learning. I don't hav
 - 💾 Microcontrollers   (Novice)
 
 ## 📫 Contact Me:
-🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
+ 🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
 🐤 [Twitter](https://twitter.com/m__desormeaux)
