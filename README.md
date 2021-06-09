@@ -22,11 +22,18 @@
                 <td>✦✦✦✧✧</td>
             </tr>
             <tr>
+                        <td>Linux</td>
+                        <td>✦✦✦✧✧</td>
+                        <td>Bash</td>
+                        <td>✦✦✧✧✧</td>
+            </tr>
+            <tr>
                 <td>Javascript</td>
                 <td>✦✦✧✧✧</td>
                 <td>React</td>
                 <td>✦✧✧✧✧</td>
             </tr>
+            
 </table>
 
 ## 📫 Contact Me:
