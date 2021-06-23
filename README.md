@@ -7,31 +7,23 @@
 ## ✔️ Skills:
 <table>
             <thead>
-                <th colspan="4">Languages, Frameworks, & Libraries</th>
+                        <th colspan="4">Languages, Frameworks, & Libraries</th>
             </thead>
             <tr>
-                <td>HTML</td>
-                <td>✦✦✦✦✧</td>
-                <td>CSS</td>
-                <td>✦✦✦✦✧</td>
+                        <td>HTML</td>
+                        <td>CSS</td>
             </tr>
             <tr>
-                <td>Yarn</td>
-                <td>✦✦✦✧✧</td>
-                <td>Python</td>
-                <td>✦✦✦✧✧</td>
+                        <td>Yarn</td>
+                        <td>Python</td>
             </tr>
             <tr>
                         <td>Linux</td>
-                        <td>✦✦✦✧✧</td>
                         <td>Bash</td>
-                        <td>✦✦✧✧✧</td>
             </tr>
             <tr>
-                <td>Javascript</td>
-                <td>✦✦✧✧✧</td>
-                <td>React</td>
-                <td>✦✧✧✧✧</td>
+                        <td>Javascript</td>
+                        <td>React</td>
             </tr>
             
 </table>
