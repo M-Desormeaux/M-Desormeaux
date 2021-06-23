@@ -12,14 +12,14 @@
             <tr>
                         <td>HTML</td>
                         <td>CSS</td>
-                        <td>Yarn</td>
-                        <td>Python</td>
+                        <td>Javascript</td>
+                        <td>React</td>
             </tr>
             <tr>
                         <td>Linux</td>
                         <td>Bash</td>
-                        <td>Javascript</td>
-                        <td>React</td>
+                        <td>Python</td>
+                        <td>Yarn</td>
             </tr>
             
 </table>
