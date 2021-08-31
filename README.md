@@ -23,8 +23,3 @@
             </tr>
             
 </table>
-
-## 📫 Contact Me:
-🌐 [Devtalk](https://discord.gg/69MyVZE3n7)<br>
-🐤 [Twitter](https://twitter.com/m__desormeaux)
-
