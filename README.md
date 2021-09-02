@@ -19,7 +19,7 @@
                         <td>Linux</td>
                         <td>Bash</td>
                         <td>Python</td>
-                        <td>Yarn</td>
+                        <td>C++</td>
             </tr>
             
 </table>
